@@ -1,0 +1,12 @@
+{
+    "app_name": "Grootbasket",
+    "loading": "Loading...",
+    "weekley_basket_menu": "Weekly Basket",
+    "weekly_basket_title": "In this Week's Grootbasket — {{date, date(day: numeric; month: short; year: numeric)}}",
+    "basket_delivered": "{{count, number}} basket delivered",
+    "basket_delivered_plural": "{{count, number}} baskets delivered",
+    "estimated_weight_title": "Estimated weight",
+    "estimated_weight_kg": "{{weight, number(style: unit; unit: kilogram)}}",
+    "hello_user": "Hello, {{user.firstName}}",
+    "footer": "Demo for <2>Phrase blog</2> article.<5/>Created with React, i18next, and Bulma."
+}
